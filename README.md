@@ -51,4 +51,4 @@ Open Sans <br>
 ![Profile Page UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Profile-Page-UI-Mockup-removebg-preview.png) <br>
 
 * <b>Help Page</b>  
-![Help Page UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Help-Page-UI-Mockup-removebg-preview.png)
+![Help Page UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Help-Page-UI-Mockup-removebg-preview.png)

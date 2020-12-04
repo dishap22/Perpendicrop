@@ -16,21 +16,27 @@ import com.example.perpendicrop.R;
 
 public class DashboardFragment extends Fragment {
 
-    private DashboardViewModel dashboardViewModel;
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.fragment_dashboard, container, false);
+    }
+
+    /*private DashboardViewModel dashboardViewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         dashboardViewModel =
                 ViewModelProviders.of(this).get(DashboardViewModel.class);
         View root = inflater.inflate(R.layout.fragment_dashboard, container, false);
-        /*final TextView text_dashboard = root.findViewById(R.id.text_dashboard);
+        final TextView text_dashboard = root.findViewById(R.id.text_dashboard);
         dashboardViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
 
             @Override
             public void onChanged(@Nullable String s) {
                 text_dashboard.setText(s);
             }
-        });*/
+        });
         return root;
-    }
+    }*/
 }

@@ -16,7 +16,13 @@ import com.example.perpendicrop.R;
 
 public class HomeFragment extends Fragment {
 
-    private HomeViewModel homeViewModel;
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.fragment_home, container, false);
+    }
+
+    /*private HomeViewModel homeViewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -29,7 +35,7 @@ public class HomeFragment extends Fragment {
             public void onChanged(@Nullable String s) {
                 textView.setText(s);
             }
-        });*/
+        });
         return root;
-    }
+    }*/
 }

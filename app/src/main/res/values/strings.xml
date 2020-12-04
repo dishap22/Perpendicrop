@@ -7,4 +7,6 @@
     <string name="title_medium">Medium</string>
     <string name="title_large">Large</string>
     <string name="title_appname">PerpendiCrop</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_help">Help</string>
 </resources>

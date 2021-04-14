@@ -2,7 +2,7 @@
 Code for the Perpendicrop App 
 
 > Perpendicrop, Vertically Fresh <br>
-![Perpendicrop Logo](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/perpendicrop-logo.png)
+![Perpendicrop Logo](https://github.com/dishap22/Perpendicrop/blob/master/perpendicrop-logo.png)
 
 
 # Functionality

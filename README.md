@@ -42,7 +42,7 @@ Open Sans <br>
 * <b>Home Screen (Small System Size)</b> <br>
 ![Small System Info UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Small-Info-UI-Mockup-removebg-preview.png) <br>
 ![Small System Updates UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Small-Updates-UI-Mockup-removebg-preview.png) <br>
-![Small System Alerts UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Small-Alerts-UI-Mockup-removebg-preview.png) <br> 
+![Small System Alerts UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Small-Alerts-UI-Mockup-removebg-preview.png) <br> 
   
 * <b>Add Plant (Small System Size)</b> <br>
 ![Small System Add Plant UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Small-Add-Plant-UI-Mockup-removebg-preview.png) <br>

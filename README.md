@@ -34,21 +34,21 @@ Open Sans <br>
 
 # UI Designs 
 * <b>Sign In</b> <br>
-![Sign In UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Sign-In-UI-Mockup-removebg-preview.png) <br>
+![Sign In UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Sign-In-UI-Mockup-removebg-preview.png) <br>
 
 * <b>Sign Up</b> <br>
-![Sign Up UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Sign-Up-UI-Mockup-removebg-preview.png) <br>
+![Sign Up UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Sign-Up-UI-Mockup-removebg-preview.png) <br>
 
 * <b>Home Screen (Small System Size)</b> <br>
-![Small System Info UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Small-Info-UI-Mockup-removebg-preview.png) <br>
-![Small System Updates UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Small-Updates-UI-Mockup-removebg-preview.png) <br>
+![Small System Info UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Small-Info-UI-Mockup-removebg-preview.png) <br>
+![Small System Updates UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Small-Updates-UI-Mockup-removebg-preview.png) <br>
 ![Small System Alerts UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Small-Alerts-UI-Mockup-removebg-preview.png) <br> 
   
 * <b>Add Plant (Small System Size)</b> <br>
-![Small System Add Plant UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Small-Add-Plant-UI-Mockup-removebg-preview.png) <br>
+![Small System Add Plant UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Small-Add-Plant-UI-Mockup-removebg-preview.png) <br>
  
 * <b>Profile Page</b> <br>
-![Profile Page UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Profile-Page-UI-Mockup-removebg-preview.png) <br>
+![Profile Page UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Profile-Page-UI-Mockup-removebg-preview.png) <br>
 
 * <b>Help Page</b>  
-![Help Page UI Design](https://github.com/dishap22/Perpendicrop-App/blob/master/Assets/Help-Page-UI-Mockup-removebg-preview.png)
+![Help Page UI Design](https://github.com/dishap22/Perpendicrop/blob/master/Assets/Help-Page-UI-Mockup-removebg-preview.png)
